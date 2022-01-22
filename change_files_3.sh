@@ -1,5 +1,5 @@
 curl -s https://raw.githubusercontent.com/cryptongithub/init/main/logo.sh | bash && sleep 2
-echo -e '\n\e[42mSubQuery Module 4 Exercise 3\e[0m\n' && sleep 2
+echo '\n\e[42mSubQuery Module 4 Exercise 3\e[0m\n' && sleep 2
 sudo rm -r $HOME/tutorials-simple-aggregation/.data 
 sudo rm -r $HOME/tutorials-simple-aggregation/schema.graphql 
 sudo rm -r $HOME/tutorials-simple-aggregation/project.yaml 
