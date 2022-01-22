@@ -1,3 +1,4 @@
+curl -s https://raw.githubusercontent.com/cryptongithub/init/main/logo.sh | bash
 sudo rm -r $HOME/tutorials-simple-aggregation/.data 
 sudo rm -r $HOME/tutorials-simple-aggregation/schema.graphql 
 sudo rm -r $HOME/tutorials-simple-aggregation/project.yaml 
